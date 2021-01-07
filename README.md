@@ -1,0 +1,1 @@
+In this project, I'm building a responsive website. I'm cloning The Next Web, a tech-focused magazine which uses media queries to resize its site elegantly for devices with smalller screens.
